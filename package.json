@@ -1,0 +1,23 @@
+{
+  "name": "gitb-cli",
+  "version": "1.0.0",
+  "description": "git batch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigongting/gitb-cli.git"
+  },
+  "keywords": [
+    "git",
+    "batch"
+  ],
+  "author": "pigongting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigongting/gitb-cli/issues"
+  },
+  "homepage": "https://github.com/pigongting/gitb-cli#readme"
+}
