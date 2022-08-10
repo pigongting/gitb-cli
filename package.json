@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "gita": "bin/auto.sh",
+    "gitb": "bin/batch.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pigongting/gitb-cli.git"
